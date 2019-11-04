@@ -8,3 +8,9 @@
 - [ ] Improve Doom (Nov 6)
 - [ ] Sonic Game (Nov 7)
 - [ ] Sonic with Tensorflow (Nov 8, 9)
+
+## [Stanford RL course](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+Nov 4 - Nov 19 (each lecture perday)
+
+## [Andrew Ng Machine Learning](https://www.coursera.org/learn/machine-learning)
+Nov 4 - Nov 19 (each lecture perday)
