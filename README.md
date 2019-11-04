@@ -11,6 +11,7 @@
 
 ## [Stanford RL course](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 Nov 4 - Nov 19 (each lecture perday)
+- [X] Lecture 1 - Nov 4
 
 ## [Andrew Ng Machine Learning](https://www.coursera.org/learn/machine-learning)
 Nov 4 - Nov 19 (each lecture perday)
